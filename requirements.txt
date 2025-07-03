@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+Flask
+scikit-learn
+Flask
+joblib
+Flask-Cors
+gunicorn
